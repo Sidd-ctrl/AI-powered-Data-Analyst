@@ -1,0 +1,101 @@
+customer_id,segment,acquisition_channel
+C001,Individual,Organic
+C002,Business,Referral
+C003,Individual,Paid search
+C004,Business,Referral
+C005,Individual,Organic
+C006,Individual,Organic
+C007,Individual,Referral
+C008,Individual,Organic
+C009,Individual,Organic
+C010,Business,Referral
+C011,Business,Organic
+C012,Business,Referral
+C013,Business,Referral
+C014,Business,Organic
+C015,Individual,Referral
+C016,Individual,Referral
+C017,Business,Organic
+C018,Business,Organic
+C019,Business,Referral
+C020,Individual,Paid search
+C021,Business,Organic
+C022,Individual,Organic
+C023,Business,Referral
+C024,Individual,Organic
+C025,Business,Paid search
+C026,Individual,Organic
+C027,Individual,Paid search
+C028,Business,Referral
+C029,Business,Organic
+C030,Individual,Referral
+C031,Individual,Referral
+C032,Business,Referral
+C033,Business,Organic
+C034,Individual,Organic
+C035,Business,Paid search
+C036,Business,Organic
+C037,Individual,Paid search
+C038,Individual,Referral
+C039,Business,Paid search
+C040,Individual,Paid search
+C041,Business,Organic
+C042,Business,Referral
+C043,Individual,Paid search
+C044,Individual,Organic
+C045,Business,Organic
+C046,Individual,Paid search
+C047,Business,Organic
+C048,Individual,Organic
+C049,Business,Referral
+C050,Individual,Organic
+C051,Individual,Paid search
+C052,Individual,Referral
+C053,Individual,Organic
+C054,Business,Referral
+C055,Business,Organic
+C056,Individual,Organic
+C057,Individual,Referral
+C058,Individual,Referral
+C059,Business,Organic
+C060,Business,Paid search
+C061,Individual,Referral
+C062,Individual,Organic
+C063,Individual,Referral
+C064,Individual,Referral
+C065,Business,Organic
+C066,Individual,Organic
+C067,Individual,Referral
+C068,Individual,Organic
+C069,Individual,Referral
+C070,Business,Paid search
+C071,Business,Referral
+C072,Business,Referral
+C073,Business,Referral
+C074,Individual,Referral
+C075,Individual,Organic
+C076,Business,Paid search
+C077,Business,Referral
+C078,Individual,Organic
+C079,Individual,Organic
+C080,Individual,Referral
+C081,Individual,Paid search
+C082,Business,Organic
+C083,Business,Paid search
+C084,Individual,Organic
+C085,Individual,Referral
+C086,Business,Referral
+C087,Business,Referral
+C088,Individual,Organic
+C089,Business,Paid search
+C090,Individual,Referral
+C091,Individual,Paid search
+C092,Business,Organic
+C093,Business,Organic
+C094,Business,Organic
+C095,Business,Referral
+C096,Individual,Referral
+C097,Individual,Organic
+C098,Business,Paid search
+C099,Individual,Referral
+C100,Individual,Referral
