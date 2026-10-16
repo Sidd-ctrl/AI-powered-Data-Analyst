@@ -527,15 +527,4 @@ The process received a stop signal. A normal shutdown log is not itself a crash,
 - The displayed Pandas workflow uses SQLite via Pandas to preserve executed-query semantics; it is not always a native `groupby` expression.
 - No verified PDF export, deployment URL, screenshot collection, demo video, or comprehensive automated test suite is included.
 
-## Recording a short demo
-
-Use a screen recorder such as Windows Snipping Tool or OBS:
-
-1. Start the backend and frontend.
-2. Load the synthetic sales data before recording.
-3. Show the Overview page and Data Sources preview.
-4. Ask “Compare revenue by region”.
-5. Show the chart, executed SQL, and a saved dashboard.
-6. Stop recording after about 20–30 seconds.
-
-Use synthetic data and keep terminals, API keys, and `.env` files out of the recording. Add real screenshots and a video link only after recording the running application.
+ API keys, and `.env` files out of the recording. Add real screenshots and a video link only after recording the running application.
